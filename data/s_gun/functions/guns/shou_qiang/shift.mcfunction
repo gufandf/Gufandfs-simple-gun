@@ -1,0 +1,2 @@
+execute unless entity @s[nbt={SelectedItem:{tag:{tag:{Tags:["b06"]}}}}] run execute if entity @s[nbt={Inventory:[{tag:{tag:{Tags:["shou_qiang_bullet"]}}}]}] run function s_gun:guns/shou_qiang/reload/reload
+execute unless entity @s[nbt={SelectedItem:{tag:{tag:{Tags:["b06"]}}}}] run execute unless entity @s[nbt={Inventory:[{tag:{tag:{Tags:["shou_qiang_bullet"]}}}]}] run function s_gun:game/signs/no_buttel
