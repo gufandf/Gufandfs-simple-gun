@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"s_gun:tick"
+		"gufandfs_simple_gun:tick"
 	]
 }

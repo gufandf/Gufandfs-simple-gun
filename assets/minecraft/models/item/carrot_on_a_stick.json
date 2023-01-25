@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures":{
+    "layer0":"item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":101001}, "model": "guns/shou_qiang/shou_qiang"},
+    {"predicate": {"custom_model_data":101002}, "model": "guns/shou_qiang/shou_qiang_run"},
+    {"predicate": {"custom_model_data":101003}, "model": "guns/shou_qiang/shou_qiang_shoot"},
+    {"predicate": {"custom_model_data":101004}, "model": "guns/shou_qiang/shou_qiang_shoot_run"},
+    {"predicate": {"custom_model_data":102001}, "model": "guns/bu_qiang/bu_qiang"},
+    {"predicate": {"custom_model_data":102002}, "model": "guns/bu_qiang/bu_qiang_run"}
+  ]
+}

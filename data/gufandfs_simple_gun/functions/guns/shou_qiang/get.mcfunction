@@ -1,0 +1,2 @@
+give @s carrot_on_a_stick{n:101000,CustomModelData:101001,tag:{Tags:["gufandfs_simple_gun_gun","shou_qiang","b06"]},display:{Name:'[{"text":"手枪"}]'}}
+give @s iron_nugget{CustomModelData:101001,tag:{Tags:["gufandfs_simple_gun_bullet","shou_qiang_bullet"]},display:{Name:'[{"text":"手枪子弹"}]'}} 64

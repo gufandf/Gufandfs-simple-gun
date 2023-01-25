@@ -1,0 +1,18 @@
+{
+        "providers":[
+                {
+                        "type":"bitmap",
+                        "file":"minecraft:fontimg/bullet.png",
+                        "height":20,
+                        "ascent":15,
+                        "chars":["\ue101"]
+                },
+                {
+                        "type":"bitmap",
+                        "file":"minecraft:fontimg/xie_line.png",
+                        "height":20,
+                        "ascent":13,
+                        "chars":["\ue102"]
+                }
+        ]
+}

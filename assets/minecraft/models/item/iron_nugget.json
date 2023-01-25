@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":101001}, "model": "bullet/shou_qiang"},
+    {"predicate": {"custom_model_data":102001}, "model": "bullet/bu_qiang"}
+  ]
+}
